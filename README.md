@@ -17,3 +17,9 @@ Pour l'administration du serveur les groupes suivants seront créés de base.
 
 # Gestion de utilisateurs
 Pour la gestion des utilisateurs les fondateurs auront la possibilité de créer et modifier les comptes utilisateurs.
+
+# Développement
+Le panel utilisera le framework bootstrap 4.0.0 pour assurer une développement responsive et propre au niveau de l'affichage.
+Pour le remplissage du site, une connexion à deux bases de données (web et serveur arma) sera faite sur chaque page et ainsi récupérer les informations nécessaire via des requêts SQL.
+
+Toutes la partie fonctionnel de l'outi sera codé en PHP.
